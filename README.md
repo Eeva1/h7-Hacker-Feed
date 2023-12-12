@@ -77,6 +77,23 @@
           - there will still be vulnerabilities and bypasses using LOLBINs, but it raises the bar and EDR's are very good for these techniques
 - The network control and visibility are usually the last line of defense, if the attacker gets around the app controla and EDR
 
-- APPLOCKER + NETWORK CONTROL & VISIBILITY + EDR + LOGS = MAXIMIZE PREVENTATION & DETECTION - capabilities
+- APPLOCKER + NETWORK CONTROL & VISIBILITY + EDR + LOGS (from all of them) = MAXIMIZE PREVENTATION & DETECTION -capabilities
 
-Sources: Aalto H. & Vainikka V. 2023. Disobey 2023 Need for network visibility in the age of modern EDR - Ville Vainikka and Henri Aalto. URL: https://www.youtube.com/watch?v=lkaaodZ46o4. Accessed: 11.12.2023
+## Detecting AiTM (Adversary-in-the-middle)
+
+- is detecting something what has already happened
+- An attacker can get password and other user login, and session cookie that works without multi factor auhtentication
+
+![image](https://github.com/Eeva1/h7-Hacker-Feed/assets/149093822/0003dc2c-58c2-4530-aebf-ff3f5a689eb5)
+Aalto, H. Vainikka, V.
+
+- When you get the IoC, the logs show how many users fell into the ruse and were compromised
+- Then you can see all the logins, and how the whole sign in process went
+- So it's clear that the account is compromised
+
+![image](https://github.com/Eeva1/h7-Hacker-Feed/assets/149093822/da8e1bdc-1913-4fb5-b3d4-264d474b038c)
+Aalto, H. Vainikka, V.
+
+Sources: 
+
+Aalto H. & Vainikka V. 2023. Disobey 2023 Need for network visibility in the age of modern EDR - Ville Vainikka and Henri Aalto. YouTube video. URL: https://www.youtube.com/watch?v=lkaaodZ46o4. Accessed: 12.12.2023
