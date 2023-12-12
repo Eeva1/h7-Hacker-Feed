@@ -70,6 +70,13 @@
 
 - So nothing is definity, but just stuff you can use to do more and better threat hunting, and when you get a lot of different ways of finding that the certain domain is bad, then you propably have a case.
 - Then it is better to go and check the other logs, like EDR logs 
-- Many C2 logs are not using 
+
+## Summary of C2 detecton and prevention
+
+- Do not let the user's run any Applications to the workstations
+          - there will still be vulnerabilities and bypasses using LOLBINs, but it raises the bar and EDR's are very good for these techniques
+- The network control and visibility are usually the last line of defense, if the attacker gets around the app controla and EDR
+
+- APPLOCKER + NETWORK CONTROL & VISIBILITY + EDR + LOGS = MAXIMIZE PREVENTATION & DETECTION - capabilities
 
 Sources: Aalto H. & Vainikka V. 2023. Disobey 2023 Need for network visibility in the age of modern EDR - Ville Vainikka and Henri Aalto. URL: https://www.youtube.com/watch?v=lkaaodZ46o4. Accessed: 11.12.2023
