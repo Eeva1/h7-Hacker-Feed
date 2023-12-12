@@ -104,3 +104,5 @@ Aalto, H. Vainikka, V.
 Sources: 
 
 Aalto H. & Vainikka V. 2023. Disobey 2023. Need for network visibility in the age of modern EDR - Ville Vainikka and Henri Aalto. YouTube video. URL: https://www.youtube.com/watch?v=lkaaodZ46o4. Accessed: 12.12.2023
+
+Tero Karvinen 2023. Trust to Blockchain 2023 autumn. URL: https://terokarvinen.com/2023/trust-to-blockchain/. Accessed: 12.12.2023
