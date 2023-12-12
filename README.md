@@ -90,10 +90,17 @@ Aalto, H. Vainikka, V.
 - When you get the IoC, the logs show how many users fell into the ruse and were compromised
 - Then you can see all the logins, and how the whole sign in process went
 - So it's clear that the account is compromised
+- Decrypted initial HTTP URI followed the login process, and you know for who must force credential refresh
 
 ![image](https://github.com/Eeva1/h7-Hacker-Feed/assets/149093822/da8e1bdc-1913-4fb5-b3d4-264d474b038c)
 Aalto, H. Vainikka, V.
 
+## Summary
+
+- If you can, get both.
+- If you are forced to choose, pick EDR
+- XDR (Extended detective and research)
+
 Sources: 
 
-Aalto H. & Vainikka V. 2023. Disobey 2023 Need for network visibility in the age of modern EDR - Ville Vainikka and Henri Aalto. YouTube video. URL: https://www.youtube.com/watch?v=lkaaodZ46o4. Accessed: 12.12.2023
+Aalto H. & Vainikka V. 2023. Disobey 2023. Need for network visibility in the age of modern EDR - Ville Vainikka and Henri Aalto. YouTube video. URL: https://www.youtube.com/watch?v=lkaaodZ46o4. Accessed: 12.12.2023
